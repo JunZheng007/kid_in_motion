@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/4.2.3/d3.min.js"></script>
+<script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+  <title>JS Bin</title>
+</head>
+<body>
+<div id="chart">
+  <svg width="1000" height="650"></svg>
+</div>
+<script>
+var data_URL = "https://raw.githubusercontent.com/JunZheng007/kid_in_motion/master/data.josn";
+
+var map_URL = "https://raw.githubusercontent.com/JunZheng007/kid_in_motion/master/borough.geojson";
+
+d3.queue()
+  .defer(d3.json, data_URL)
+  .defer(d3.json, map_URL)
+  .await(createChart);
+
+function createChart(error, data, map){
+  var canvasSize = [1000, 650],
+      svg        = d3.select("svg");
+  var g          = svg.append("g");
+  
+  //create the NYC map by borough
+  var projection = d3.geoMercator()
+                      .scale(Math.pow(2,10.5 + 5.34))
+                      .center([-73.975, 40.7])
+                      .translate([canvasSize[0]/3*2,
+                                  canvasSize[1]/2]);  
+  var path       = d3.geoPath()
+                      .projection(projection);
+  g.selectAll(".map")
+    .data(map.features)
+    .enter().append("path")
+      .attr("class", "map")
+      .attr("d", path);
+  
+  var count = [];
+  var boroughs = ["Brooklyn", "Bronx", "Manhattan", "Queens", "Staten Island"]
+  var week_day = ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"];
+  var _2018 = data.data.map(obj => [obj[10], obj[8], obj[12],
+                                    obj[13], obj[14], obj[15], 
+                                    obj[16], obj[17], obj[18]])
+                       .filter(item => {
+                        return item[0][3] == "8";
+                      })
+  
+  for (var i = 0; i < 7; i++){
+    count[i] = [week_day[i], 
+                _2018.reduce( (total, item) => {
+                              return total + parseInt(item[i+2]);}, 0),
+                i + 2
+                ];
+  }
+  
+  var max = d3.max(count, d => d[1]);
+  
+  var x = d3.scaleBand()
+            .domain(week_day)
+            .rangeRound([0,300]);
+
+  var y = d3.scaleLinear()
+            .domain([0,max])
+            .rangeRound([600,60]);
+  
+  g.append('g')
+    .attr('class', 'axis--y')
+    .attr('transform', 'translate(60,0)')
+    .attr('range', '(max,0)')
+    .call(d3.axisLeft(y))
+    .append("text")
+      .attr("class", "label")
+      .attr('transform', 'rotate(-90)')
+      .attr("x", -280)
+      .attr("y", -45)
+      .text("Number of Kid")
+  
+  g.append('g')
+    .attr('class', 'grid axis--y')
+    .attr('transform', 'translate(60,0)')
+    .call(d3.axisLeft(y).tickSize(-300).tickFormat(""))
+  
+  
+  g.append('g')
+    .attr('class', 'axis--x')
+    .attr('transform', 'translate(60,60)')
+    .call(d3.axisTop(x))
+  
+  g.append('g')
+    .attr('class', 'axis--x')
+    .attr('transform', 'translate(60,600)')
+    .call(d3.axisBottom(x))
+    .append("text")
+      .attr("class", "label")
+      .attr("x", 140)
+      .attr("y", 30)
+      .text("Day of the Week")
+  
+  var tooltip = d3.select("body").append("div")
+                .attr("class", "tooltip")
+  
+  g.selectAll('.bar')
+    .data(count)
+    .enter().append ('rect')
+      .attr('class', 'bar')
+      .attr('x', d => x(d[0])+64)
+      .attr('y', d => y(d[1]))
+      .attr('width', 36)
+      .attr('height', d => 600-y(d[1]))
+      .on("mouseover", function (d) {
+        d3.select(this)
+          .transition().ease(d3.easeBounce).duration(500)
+          .attr('x', d => x(d[0])+64-2)
+          .attr('y', d => y(d[1])-2)
+          .attr('width', 36+4)
+          .attr('height', d => 600-y(d[1])+4)
+        tooltip.text(d[1]);
+        tooltip.style("visibility", "visible");
+        updateMap(d);
+      })
+      .on("mouseout", function (d) {
+        d3.select(this)
+        .transition().duration(300)
+        .attr('x', d => x(d[0])+64)
+        .attr('y', d => y(d[1]))
+        .attr('width', 36)
+        .attr('height', d => 600-y(d[1]))
+        tooltip.style("visibility", "hidden");
+      })
+      .on("mousemove", function (d) {
+        tooltip.style("top", d3.event.pageY+20+"px")
+               .style("left", d3.event.pageX+10+"px");
+      })
+  
+  //scale line on the top of map
+  for (var i = 0; i < 4; i++) {
+      g.append("rect")
+        .attr("class", "scale-line")
+        .attr("x", 450+i*50)
+        .attr("y", 50)
+        .attr("width", 50)
+        .attr("height", 5)
+        .attr("fill", scaleColor(i))
+    }
+  
+  function updateMap(d) {
+    var counts   = _2018.map(obj => [obj[1], obj[d[2]]]),
+        data     = boroughs.map(obj => [obj, borough(counts,obj)]),
+        maxCount = d3.max(data, d => d[1]),
+        color    = d3.scaleThreshold()
+                     .domain(d3.range(0, maxCount, maxCount/5))
+                     .range(d3.schemeBlues[5]);
+    console.log(counts);
+    console.log(data);
+  
+        g.selectAll(".map")
+            .data(data, key)
+            .transition().duration(500)
+            .style("fill", d => color(d[1]));
+    
+    var scale = g.selectAll(".scale")
+       .data(data,d => [d[1]]);
+    scale.enter()
+      .append('g')
+      .attr('class', 'scale axis--x')
+      .attr('transform', 'translate(450,60)')
+      .attr("color", "blue")
+      .call(d3.axisBottom(scaleX(scaleMax(maxCount)))
+            .tickValues(getTickValues(scaleMax(maxCount)))
+            .tickSize(-10)
+            .tickFormat(d3.format(".2s"))
+           )
+      .append("text")
+      .attr("class", "scale--text")
+      .attr("x", 100)
+      .attr("y", -20)
+      .text("Number of " + data[d[2]][0] + " Restaurants")
+      .style("opacity", 0)
+    .merge(scale)
+      .text("Number of " + data[d[2]][0] + " Restaurants")
+      .style("opacity", 1);
+    scale.exit()
+      .style("opacity", 0);
+  }
+}
+
+
+
+function borough(data, name){
+  data = data.filter(item => {
+                return item[0] == name;
+                });
+  return data.reduce( (total, item) => {
+                              return total + parseInt(item[1]);}, 0);
+}
+
+function key(d) {
+  return (d[0]?d[0]:d.properties.BoroName);
+}
+
+function scaleColor(x) {
+  color    = d3.scaleThreshold()
+                     .domain(d3.range(0, 5, 1))
+                     .range(d3.schemeBlues[5]);
+  return color(x);
+}
+
+function scaleX(x) {
+    
+  var scale = d3.scaleLinear()
+            .domain([0, x])
+            .rangeRound([0,200])
+  return scale;
+}
+
+function scaleMax(x) {
+  var n = 0;
+  while (x / 10 > 10) {
+    x = Math.ceil(x / 10);
+    n++;
+  }
+  
+  x = x * Math.pow(10, n);
+  
+  return x;
+}
+
+function getTickValues(x) {
+  return [0, x/4, x/2, x/4*3, x];
+}</script>
+</body>
+</html>
