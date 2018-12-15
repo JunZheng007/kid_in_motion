@@ -1,0 +1,654 @@
+the_geom,wednesday_attendance,borough,park_or_playground,sunday_attendance,monday_attendance,tuesday_attendance,cartodb_id,thursday_attendance,friday_attendance,saturday_attendance,total_attendance,right_lat,right_lon
+,0,Bronx,Martin Van Buren Playground,0,0,0,1,10,15,25,50,40.8353,-73.8959
+,17,Bronx,Tiffany Playground,0,0,0,2,31,38,13,99,40.8249,-73.8944
+,0,Bronx,Claremont Park,0,0,0,3,30,25,55,110,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,0,4,30,25,55,110,40.8379,-73.9081
+,0,Queens,Linden Park,0,0,250,5,0,0,0,250,40.7486,-73.8619
+,0,Queens,Linden Park,0,0,250,6,0,0,0,250,40.6593,-73.8875
+,0,Queens,Linden Park,0,0,250,7,0,0,0,250,40.6587,-73.8867
+,140,Queens,Linden Park,0,0,1,8,0,0,0,141,40.7486,-73.8619
+,140,Queens,Linden Park,0,0,1,9,0,0,0,141,40.6593,-73.8875
+,140,Queens,Linden Park,0,0,1,10,0,0,0,141,40.6587,-73.8867
+,0,Queens,Rufus King Park,0,0,0,11,89,126,0,215,40.7041,-73.8035
+,0,Bronx,Tiffany Playground,0,0,10,12,0,0,0,10,40.8249,-73.8944
+,0,Bronx,Claremont Park,0,0,35,13,25,35,50,145,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,35,14,25,35,50,145,40.8379,-73.9081
+,0,Bronx,Martin Van Buren Playground,0,0,15,15,18,25,0,58,40.8353,-73.8959
+,80,Manhattan,Happy Warrior Playground,0,0,75,16,65,60,45,325,40.7954,-73.9685
+,24,Brooklyn,Osborn Playground,0,0,24,17,25,28,27,128,40.6557,-73.9061
+,21,Brooklyn,Osborn Playground,0,0,18,18,25,24,21,109,40.6557,-73.9061
+,25,Brooklyn,Osborn Playground,0,0,20,19,26,32,31,134,40.6557,-73.9061
+,24,Brooklyn,Osborn Playground,0,0,25,20,26,21,28,124,40.6557,-73.9061
+,28,Brooklyn,Osborn Playground,0,0,20,21,23,21,26,118,40.6557,-73.9061
+,23,Brooklyn,Osborn Playground,0,0,25,22,24,20,34,126,40.6557,-73.9061
+,24,Brooklyn,Osborn Playground,0,0,24,23,26,28,27,129,40.6557,-73.9061
+,28,Brooklyn,Osborn Playground,0,0,21,24,29,24,27,129,40.6557,-73.9061
+,25,Brooklyn,Osborn Playground,0,0,25,25,26,27,21,124,40.6557,-73.9061
+,18,Brooklyn,Osborn Playground,0,0,23,26,28,26,24,119,40.6557,-73.9061
+,29,Brooklyn,Osborn Playground,0,0,21,27,25,29,18,122,40.6557,-73.9061
+,25,Brooklyn,Osborn Playground,0,0,22,28,24,22,20,113,40.6557,-73.9061
+,25,Brooklyn,Osborn Playground,0,0,22,29,28,23,24,122,40.6557,-73.9061
+,29,Brooklyn,Osborn Playground,0,0,25,30,24,23,21,122,40.6557,-73.9061
+,26,Brooklyn,Osborn Playground,0,0,21,31,25,24,19,115,40.6557,-73.9061
+,25,Brooklyn,Osborn Playground,0,0,20,32,25,21,32,123,40.6557,-73.9061
+,21,Brooklyn,Osborn Playground,0,0,25,33,17,29,26,118,40.6557,-73.9061
+,22,Brooklyn,Osborn Playground,0,0,22,34,20,26,24,114,40.6557,-73.9061
+,26,Brooklyn,Osborn Playground,0,0,25,35,20,28,22,121,40.6557,-73.9061
+,90,Brooklyn,Maria Hernandez Park,0,0,90,36,84,72,69,405,40.7036,-73.9234
+,90,Brooklyn,Maria Hernandez Park,0,0,90,37,84,72,69,405,40.7028,-73.9243
+,75,Brooklyn,Maria Hernandez Park,0,0,80,38,75,74,82,386,40.7036,-73.9234
+,75,Brooklyn,Maria Hernandez Park,0,0,80,39,75,74,82,386,40.7028,-73.9243
+,75,Brooklyn,Maria Hernandez Park,0,0,80,40,83,71,77,386,40.7036,-73.9234
+,75,Brooklyn,Maria Hernandez Park,0,0,80,41,83,71,77,386,40.7028,-73.9243
+,82,Brooklyn,Maria Hernandez Park,0,0,70,42,75,92,76,395,40.7036,-73.9234
+,82,Brooklyn,Maria Hernandez Park,0,0,70,43,75,92,76,395,40.7028,-73.9243
+,80,Brooklyn,Maria Hernandez Park,0,0,80,44,81,82,88,411,40.7036,-73.9234
+,80,Brooklyn,Maria Hernandez Park,0,0,80,45,81,82,88,411,40.7028,-73.9243
+,14,Brooklyn,Fort Greene Playground,0,0,17,46,10,11,28,80,40.6924,-73.9771
+,82,Brooklyn,Maria Hernandez Park,0,0,80,47,92,80,79,413,40.7036,-73.9234
+,82,Brooklyn,Maria Hernandez Park,0,0,80,48,92,80,79,413,40.7028,-73.9243
+,70,Brooklyn,Maria Hernandez Park,0,0,80,49,90,95,84,419,40.7036,-73.9234
+,70,Brooklyn,Maria Hernandez Park,0,0,80,50,90,95,84,419,40.7028,-73.9243
+,24,Brooklyn,Fort Greene Playground,0,0,26,51,31,24,27,132,40.6924,-73.9771
+,25,Brooklyn,Fort Greene Playground,0,0,41,52,14,18,17,115,40.6924,-73.9771
+,55,Bronx,Claremont Park,0,0,0,53,65,30,35,185,40.8424,-73.9091
+,55,Bronx,Claremont Park,0,0,0,54,65,30,35,185,40.8379,-73.9081
+,24,Brooklyn,Fort Greene Playground,0,0,32,55,31,24,40,151,40.6924,-73.9771
+,22,Bronx,Martin Van Buren Playground,0,0,30,56,30,0,0,82,40.8353,-73.8959
+,20,Bronx,Tiffany Playground,0,0,25,57,10,0,0,55,40.8249,-73.8944
+,110,Queens,Lower Highland Playground,0,0,0,58,0,100,110,320,40.684,-73.8857
+,0,Queens,Brookville Playground,0,0,100,59,96,50,17,263,40.6632,-73.7414
+,70,Queens,Lower Highland Playground,0,0,130,60,140,190,330,860,40.684,-73.8857
+,132,Queens,Brookville Playground,0,0,113,61,127,0,0,372,40.6632,-73.7414
+,40,Manhattan,Thomas Jefferson Park,0,0,78,62,32,69,83,302,40.7922,-73.9355
+,40,Manhattan,Thomas Jefferson Park,0,0,78,63,32,69,83,302,40.7934,-73.934
+,0,Queens,Rufus King Park,0,0,0,64,160,173,205,538,40.7041,-73.8035
+,0,Queens,Linden Park,0,0,170,65,225,200,0,595,40.7486,-73.8619
+,0,Queens,Linden Park,0,0,170,66,225,200,0,595,40.6593,-73.8875
+,0,Queens,Linden Park,0,0,170,67,225,200,0,595,40.6587,-73.8867
+,70,Manhattan,Happy Warrior Playground,0,0,85,68,80,55,0,290,40.7954,-73.9685
+,88,Manhattan,Thomas Jefferson Park,0,0,90,69,75,110,140,503,40.7922,-73.9355
+,88,Manhattan,Thomas Jefferson Park,0,0,90,70,75,110,140,503,40.7934,-73.934
+,60,Bronx,Loreto Playground,0,0,60,71,60,60,60,300,40.8491,-73.8521
+,35,Bronx,Claremont Park,0,0,50,72,25,60,45,215,40.8424,-73.9091
+,35,Bronx,Claremont Park,0,0,50,73,25,60,45,215,40.8379,-73.9081
+,53,Bronx,Zimmerman Playground,0,0,67,74,78,91,74,363,40.8662,-73.8687
+,55,Brooklyn,Carroll Park,0,45,50,75,60,50,0,260,40.6811,-73.9954
+,50,Brooklyn,Carroll Park,0,45,50,76,55,60,0,260,40.6811,-73.9954
+,23,Bronx,Tiffany Playground,0,0,45,77,32,12,0,112,40.8249,-73.8944
+,0,Bronx,Martin Van Buren Playground,0,0,0,78,0,0,0,0,40.8353,-73.8959
+,65,Manhattan,Happy Warrior Playground,0,0,75,79,0,80,90,310,40.7954,-73.9685
+,98,Manhattan,Thomas Jefferson Park,0,0,110,80,0,180,200,588,40.7922,-73.9355
+,98,Manhattan,Thomas Jefferson Park,0,0,110,81,0,180,200,588,40.7934,-73.934
+,45,Staten Island,Dugan Playground,0,0,35,82,49,58,65,252,40.5614,-74.1108
+,86,Manhattan,Thomas Jefferson Park,0,0,95,83,77,68,50,376,40.7922,-73.9355
+,86,Manhattan,Thomas Jefferson Park,0,0,95,84,77,68,50,376,40.7934,-73.934
+,275,Queens,Linden Park,0,0,370,85,0,0,0,645,40.7486,-73.8619
+,275,Queens,Linden Park,0,0,370,86,0,0,0,645,40.6593,-73.8875
+,275,Queens,Linden Park,0,0,370,87,0,0,0,645,40.6587,-73.8867
+,35,Bronx,Tiffany Playground,0,0,58,88,47,41,27,208,40.8249,-73.8944
+,61,Bronx,Zimmerman Playground,0,0,28,89,65,37,60,251,40.8662,-73.8687
+,60,Bronx,Martin Van Buren Playground,0,0,41,90,45,52,0,198,40.8353,-73.8959
+,60,Bronx,Loreto Playground,0,0,60,91,60,0,0,180,40.8491,-73.8521
+,130,Queens,Lower Highland Playground,0,0,70,92,190,130,0,520,40.684,-73.8857
+,189,Queens,Rufus King Park,0,0,203,93,231,197,185,1005,40.7041,-73.8035
+,123,Queens,Brookville Playground,0,0,104,94,80,162,0,469,40.6632,-73.7414
+,210,Queens,Linden Park,0,0,190,95,0,0,150,550,40.7486,-73.8619
+,210,Queens,Linden Park,0,0,190,96,0,0,150,550,40.6593,-73.8875
+,210,Queens,Linden Park,0,0,190,97,0,0,150,550,40.6587,-73.8867
+,60,Staten Island,Dugan Playground,0,0,71,98,52,53,60,296,40.5614,-74.1108
+,65,Staten Island,Dugan Playground,0,0,51,99,60,64,0,240,40.5614,-74.1108
+,86,Manhattan,Thomas Jefferson Park,0,0,95,100,77,68,50,376,40.7922,-73.9355
+,86,Manhattan,Thomas Jefferson Park,0,0,95,101,77,68,50,376,40.7934,-73.934
+,72,Bronx,Zimmerman Playground,0,0,58,102,44,68,42,284,40.8662,-73.8687
+,60,Bronx,Loreto Playground,0,0,60,103,60,60,60,300,40.8491,-73.8521
+,65,Bronx,Tiffany Playground,0,0,40,104,45,46,25,221,40.8249,-73.8944
+,50,Bronx,Martin Van Buren Playground,0,0,42,105,38,49,64,243,40.8353,-73.8959
+,45,Bronx,Claremont Park,0,0,35,106,100,35,50,265,40.8424,-73.9091
+,45,Bronx,Claremont Park,0,0,35,107,100,35,50,265,40.8379,-73.9081
+,250,Queens,Linden Park,0,0,80,108,240,0,0,570,40.7486,-73.8619
+,250,Queens,Linden Park,0,0,80,109,240,0,0,570,40.6593,-73.8875
+,250,Queens,Linden Park,0,0,80,110,240,0,0,570,40.6587,-73.8867
+,115,Queens,Brookville Playground,0,0,95,111,137,180,0,527,40.6632,-73.7414
+,310,Queens,Rufus King Park,0,0,222,112,192,208,0,932,40.7041,-73.8035
+,100,Queens,Lower Highland Playground,0,0,130,113,0,110,0,340,40.684,-73.8857
+,89,Manhattan,Thomas Jefferson Park,0,0,96,114,105,60,35,385,40.7922,-73.9355
+,89,Manhattan,Thomas Jefferson Park,0,0,96,115,105,60,35,385,40.7934,-73.934
+,90,Manhattan,Happy Warrior Playground,0,0,75,116,80,50,0,295,40.7954,-73.9685
+,32,Brooklyn,Fort Greene Playground,0,0,0,117,30,38,0,100,40.6924,-73.9771
+,35,Brooklyn,Fort Greene Playground,0,0,18,118,32,40,38,163,40.6924,-73.9771
+,31,Brooklyn,Fort Greene Playground,0,0,0,119,24,0,0,55,40.6924,-73.9771
+,0,Brooklyn,Carroll Park,0,0,0,120,0,0,0,0,40.6811,-73.9954
+,100,Bronx,Tiffany Playground,0,0,60,121,50,25,0,235,40.8249,-73.8944
+,25,Bronx,Martin Van Buren Playground,0,0,89,122,26,54,0,194,40.8353,-73.8959
+,65,Bronx,Loreto Playground,0,0,60,123,50,60,0,235,40.8491,-73.8521
+,60,Bronx,Zimmerman Playground,0,0,40,124,45,50,0,195,40.8662,-73.8687
+,35,Bronx,Claremont Park,0,0,0,125,55,40,0,130,40.8424,-73.9091
+,35,Bronx,Claremont Park,0,0,0,126,55,40,0,130,40.8379,-73.9081
+,204,Queens,Rufus King Park,0,0,242,127,186,204,0,836,40.7041,-73.8035
+,75,Queens,Brookville Playground,0,0,85,128,89,50,30,329,40.6632,-73.7414
+,0,Manhattan,Thomas Jefferson Park,0,0,105,129,120,0,58,283,40.7922,-73.9355
+,0,Manhattan,Thomas Jefferson Park,0,0,105,130,120,0,58,283,40.7934,-73.934
+,10,Bronx,Tiffany Playground,0,0,110,131,75,25,20,240,40.8249,-73.8944
+,45,Bronx,Claremont Park,0,0,35,132,50,20,30,180,40.8424,-73.9091
+,45,Bronx,Claremont Park,0,0,35,133,50,20,30,180,40.8379,-73.9081
+,50,Bronx,Loreto Playground,0,0,50,134,60,0,40,200,40.8491,-73.8521
+,70,Bronx,Zimmerman Playground,0,0,138,135,28,154,120,510,40.8662,-73.8687
+,32,Bronx,Martin Van Buren Playground,0,0,70,136,45,85,40,272,40.8353,-73.8959
+,71,Staten Island,Dugan Playground,0,0,50,137,55,26,75,277,40.5614,-74.1108
+,0,Queens,Brookville Playground,0,0,40,138,35,0,0,75,40.6632,-73.7414
+,0,Queens,Lower Highland Playground,0,0,110,139,90,120,170,490,40.684,-73.8857
+,304,Queens,Rufus King Park,0,0,233,140,202,208,0,947,40.7041,-73.8035
+,0,Queens,Linden Park,0,0,380,141,320,105,495,1300,40.7486,-73.8619
+,0,Queens,Linden Park,0,0,380,142,320,105,495,1300,40.6593,-73.8875
+,0,Queens,Linden Park,0,0,380,143,320,105,495,1300,40.6587,-73.8867
+,70,Staten Island,Dugan Playground,0,0,55,144,45,50,58,278,40.5614,-74.1108
+,55,Staten Island,Dugan Playground,0,0,45,145,42,15,63,220,40.5614,-74.1108
+,25,Brooklyn,Carroll Park,0,35,40,146,30,35,0,165,40.6811,-73.9954
+,0,Brooklyn,Hamilton Metz Field,0,0,0,147,0,0,0,0,40.6626,-73.9409
+,80,Manhattan,Thomas Jefferson Park,0,0,72,148,140,98,120,510,40.7922,-73.9355
+,80,Manhattan,Thomas Jefferson Park,0,0,72,149,140,98,120,510,40.7934,-73.934
+,85,Manhattan,Happy Warrior Playground,0,0,130,150,90,105,90,500,40.7954,-73.9685
+,0,Bronx,Zimmerman Playground,0,0,100,151,90,100,96,386,40.8662,-73.8687
+,0,Bronx,Loreto Playground,0,0,45,152,50,50,50,195,40.8491,-73.8521
+,0,Bronx,Tiffany Playground,0,0,65,153,70,45,0,180,40.8249,-73.8944
+,234,Queens,Rufus King Park,0,0,198,154,218,181,0,831,40.7041,-73.8035
+,120,Queens,Lower Highland Playground,0,0,50,155,100,100,65,435,40.684,-73.8857
+,25,Brooklyn,Carroll Park,0,0,35,156,45,45,35,185,40.6811,-73.9954
+,44,Brooklyn,Carroll Park,0,0,40,157,37,32,30,183,40.6811,-73.9954
+,0,Brooklyn,Carroll Park,0,0,0,158,45,35,40,120,40.6811,-73.9954
+,190,Queens,Brookville Playground,0,0,115,159,90,105,120,620,40.6632,-73.7414
+,25,Manhattan,Happy Warrior Playground,0,0,0,160,20,35,20,100,40.7954,-73.9685
+,72,Manhattan,Thomas Jefferson Park,0,0,25,161,55,63,38,253,40.7922,-73.9355
+,72,Manhattan,Thomas Jefferson Park,0,0,25,162,55,63,38,253,40.7934,-73.934
+,0,Manhattan,Thomas Jefferson Park,0,0,88,163,98,180,200,566,40.7922,-73.9355
+,0,Manhattan,Thomas Jefferson Park,0,0,88,164,98,180,200,566,40.7934,-73.934
+,105,Manhattan,Happy Warrior Playground,0,0,60,165,0,95,0,260,40.7954,-73.9685
+,0,Manhattan,Happy Warrior Playground,0,40,0,166,35,0,50,125,40.7954,-73.9685
+,80,Manhattan,Happy Warrior Playground,0,0,120,167,105,65,120,490,40.7954,-73.9685
+,0,Brooklyn,Osborn Playground,0,0,0,168,0,0,0,0,40.6557,-73.9061
+,74,Brooklyn,Maria Hernandez Park,0,0,80,169,90,87,105,436,40.7036,-73.9234
+,74,Brooklyn,Maria Hernandez Park,0,0,80,170,90,87,105,436,40.7028,-73.9243
+,82,Brooklyn,Maria Hernandez Park,0,0,84,171,86,75,90,417,40.7036,-73.9234
+,82,Brooklyn,Maria Hernandez Park,0,0,84,172,86,75,90,417,40.7028,-73.9243
+,80,Brooklyn,Maria Hernandez Park,0,0,70,173,76,84,97,407,40.7036,-73.9234
+,80,Brooklyn,Maria Hernandez Park,0,0,70,174,76,84,97,407,40.7028,-73.9243
+,42,Brooklyn,Linden Park,0,0,46,175,57,62,65,272,40.7486,-73.8619
+,42,Brooklyn,Linden Park,0,0,46,176,57,62,65,272,40.6593,-73.8875
+,42,Brooklyn,Linden Park,0,0,46,177,57,62,65,272,40.6587,-73.8867
+,48,Brooklyn,Linden Park,0,0,50,178,51,46,68,263,40.7486,-73.8619
+,48,Brooklyn,Linden Park,0,0,50,179,51,46,68,263,40.6593,-73.8875
+,48,Brooklyn,Linden Park,0,0,50,180,51,46,68,263,40.6587,-73.8867
+,80,Brooklyn,Linden Park,0,0,0,181,65,75,80,300,40.7486,-73.8619
+,80,Brooklyn,Linden Park,0,0,0,182,65,75,80,300,40.6593,-73.8875
+,80,Brooklyn,Linden Park,0,0,0,183,65,75,80,300,40.6587,-73.8867
+,24,Brooklyn,Fort Greene Playground,0,0,34,184,16,24,52,150,40.6924,-73.9771
+,20,Brooklyn,Fort Greene Playground,0,0,24,185,26,22,45,137,40.6924,-73.9771
+,30,Brooklyn,Fort Greene Playground,0,0,0,186,24,36,40,130,40.6924,-73.9771
+,62,Bronx,Martin Van Buren Playground,0,0,40,187,0,114,83,299,40.8353,-73.8959
+,36,Bronx,Loreto Playground,0,0,35,188,40,55,50,216,40.8491,-73.8521
+,96,Bronx,Zimmerman Playground,0,0,110,189,98,100,80,484,40.8662,-73.8687
+,75,Bronx,Tiffany Playground,0,0,15,190,65,45,25,225,40.8249,-73.8944
+,0,Bronx,Claremont Park,0,0,30,191,40,0,45,115,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,30,192,40,0,45,115,40.8379,-73.9081
+,50,Queens,Brookville Playground,0,0,40,193,107,144,22,363,40.6632,-73.7414
+,0,Queens,Lower Highland Playground,0,0,0,194,110,32,0,142,40.684,-73.8857
+,130,Queens,Lower Highland Playground,0,0,180,195,90,85,100,585,40.684,-73.8857
+,0,Queens,Rufus King Park,0,0,208,196,184,220,236,848,40.7041,-73.8035
+,35,Staten Island,Mariners Harbor Playground,0,0,30,197,26,40,40,171,40.6365,-74.1605
+,25,Staten Island,Mariners Harbor Playground,0,0,20,198,23,30,40,138,40.6365,-74.1605
+,15,Staten Island,Mariners Harbor Playground,0,0,20,199,25,0,34,94,40.6365,-74.1605
+,20,Staten Island,Mariners Harbor Playground,0,0,34,200,20,25,35,134,40.6365,-74.1605
+,0,Staten Island,Mariners Harbor Playground,0,0,27,201,20,30,40,117,40.6365,-74.1605
+,11,Staten Island,Mariners Harbor Playground,0,0,16,202,30,25,30,112,40.6365,-74.1605
+,22,Staten Island,Mariners Harbor Playground,0,0,30,203,28,38,20,138,40.6365,-74.1605
+,20,Staten Island,Mariners Harbor Playground,0,0,0,204,35,0,40,95,40.6365,-74.1605
+,30,Staten Island,Mariners Harbor Playground,0,0,35,205,30,45,45,185,40.6365,-74.1605
+,0,Manhattan,Thomas Jefferson Park,0,110,0,206,88,8,0,206,40.7922,-73.9355
+,0,Manhattan,Thomas Jefferson Park,0,110,0,207,88,8,0,206,40.7934,-73.934
+,68,Staten Island,Dugan Playground,0,0,50,208,55,75,86,334,40.5614,-74.1108
+,50,Bronx,Claremont Park,0,0,35,209,40,35,40,200,40.8424,-73.9091
+,50,Bronx,Claremont Park,0,0,35,210,40,35,40,200,40.8379,-73.9081
+,176,Bronx,Zimmerman Playground,0,0,119,211,86,81,120,582,40.8662,-73.8687
+,130,Bronx,Martin Van Buren Playground,0,0,80,212,120,160,140,630,40.8353,-73.8959
+,65,Bronx,Tiffany Playground,0,0,33,213,35,50,0,183,40.8249,-73.8944
+,20,Bronx,Loreto Playground,0,0,15,214,18,0,45,98,40.8491,-73.8521
+,0,Queens,Rufus King Park,0,0,0,215,163,98,209,470,40.7041,-73.8035
+,0,Queens,Linden Park,0,0,0,216,220,175,300,695,40.7486,-73.8619
+,0,Queens,Linden Park,0,0,0,217,220,175,300,695,40.6593,-73.8875
+,0,Queens,Linden Park,0,0,0,218,220,175,300,695,40.6587,-73.8867
+,0,Bronx,Zimmerman Playground,0,0,0,219,23,0,39,62,40.8662,-73.8687
+,0,Bronx,Loreto Playground,0,0,0,220,15,0,15,30,40.8491,-73.8521
+,0,Bronx,Martin Van Buren Playground,0,0,70,221,47,0,350,467,40.8353,-73.8959
+,0,Bronx,Tiffany Playground,0,0,27,222,22,0,20,69,40.8249,-73.8944
+,13,Queens,Electric Playground,0,0,0,223,22,0,0,35,40.7359,-73.8054
+,108,Queens,Rufus King Park,0,0,0,224,187,0,0,295,40.7041,-73.8035
+,10,Bronx,Claremont Park,0,0,15,225,10,10,0,45,40.8424,-73.9091
+,10,Bronx,Claremont Park,0,0,15,226,10,10,0,45,40.8379,-73.9081
+,92,Bronx,Martin Van Buren Playground,0,0,35,227,50,109,0,286,40.8353,-73.8959
+,0,Bronx,Tiffany Playground,0,0,0,228,0,0,0,0,40.8249,-73.8944
+,306,Queens,Linden Park,0,0,395,229,343,420,293,1757,40.7486,-73.8619
+,306,Queens,Linden Park,0,0,395,230,343,420,293,1757,40.6593,-73.8875
+,306,Queens,Linden Park,0,0,395,231,343,420,293,1757,40.6587,-73.8867
+,0,Queens,Rufus King Park,0,0,220,232,197,285,0,702,40.7041,-73.8035
+,33,Bronx,Tiffany Playground,0,0,28,233,40,0,0,101,40.8249,-73.8944
+,45,Bronx,Martin Van Buren Playground,0,0,32,234,51,10,0,138,40.8353,-73.8959
+,30,Bronx,Claremont Park,0,0,0,235,40,20,0,90,40.8424,-73.9091
+,30,Bronx,Claremont Park,0,0,0,236,40,20,0,90,40.8379,-73.9081
+,9,Queens,Electric Playground,0,0,13,237,11,8,0,41,40.7359,-73.8054
+,70,Queens,Rufus King Park,0,0,326,238,223,187,0,806,40.7041,-73.8035
+,0,Bronx,Claremont Park,0,0,35,239,55,40,0,130,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,35,240,55,40,0,130,40.8379,-73.9081
+,0,Bronx,Tiffany Playground,0,0,25,241,35,31,0,91,40.8249,-73.8944
+,216,Queens,Rufus King Park,0,0,246,242,226,220,0,908,40.7041,-73.8035
+,30,Bronx,Tiffany Playground,0,0,18,243,0,23,0,71,40.8249,-73.8944
+,0,Bronx,Martin Van Buren Playground,0,0,50,244,80,50,90,270,40.8353,-73.8959
+,40,Bronx,Claremont Park,0,0,35,245,30,60,55,220,40.8424,-73.9091
+,40,Bronx,Claremont Park,0,0,35,246,30,60,55,220,40.8379,-73.9081
+,214,Queens,Rufus King Park,0,0,263,247,186,125,0,788,40.7041,-73.8035
+,232,Queens,Linden Park,0,0,125,248,0,280,260,897,40.7486,-73.8619
+,232,Queens,Linden Park,0,0,125,249,0,280,260,897,40.6593,-73.8875
+,232,Queens,Linden Park,0,0,125,250,0,280,260,897,40.6587,-73.8867
+,28,Bronx,Tiffany Playground,0,0,35,251,0,50,50,163,40.8249,-73.8944
+,0,Bronx,Martin Van Buren Playground,0,0,35,252,0,42,56,133,40.8353,-73.8959
+,0,Bronx,Claremont Park,0,0,30,253,0,25,35,90,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,30,254,0,25,35,90,40.8379,-73.9081
+,8,Queens,Electric Playground,0,0,6,255,21,13,15,63,40.7359,-73.8054
+,0,Queens,Rufus King Park,0,0,0,256,242,196,0,438,40.7041,-73.8035
+,0,Bronx,Martin Van Buren Playground,0,0,0,257,0,55,60,115,40.8353,-73.8959
+,10,Bronx,Claremont Park,0,0,0,258,9,11,21,51,40.8424,-73.9091
+,10,Bronx,Claremont Park,0,0,0,259,9,11,21,51,40.8379,-73.9081
+,30,Bronx,Tiffany Playground,0,0,0,260,40,50,25,145,40.8249,-73.8944
+,0,Queens,Electric Playground,0,18,0,261,0,13,0,31,40.7359,-73.8054
+,35,Queens,Rufus King Park,0,0,0,262,63,0,0,98,40.7041,-73.8035
+,0,Bronx,Claremont Park,0,0,2,263,0,8,0,10,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,2,264,0,8,0,10,40.8379,-73.9081
+,0,Bronx,Martin Van Buren Playground,0,0,35,265,0,40,0,75,40.8353,-73.8959
+,0,Bronx,Tiffany Playground,0,0,12,266,0,5,0,17,40.8249,-73.8944
+,315,Queens,Rufus King Park,0,0,0,267,421,0,310,1046,40.7041,-73.8035
+,175,Queens,Linden Park,0,0,166,268,114,0,163,618,40.7486,-73.8619
+,175,Queens,Linden Park,0,0,166,269,114,0,163,618,40.6593,-73.8875
+,175,Queens,Linden Park,0,0,166,270,114,0,163,618,40.6587,-73.8867
+,0,Queens,Electric Playground,0,0,6,271,8,0,16,30,40.7359,-73.8054
+,412,Queens,Rufus King Park,0,0,0,272,115,215,150,892,40.7041,-73.8035
+,25,Bronx,Martin Van Buren Playground,0,0,20,273,22,30,0,97,40.8353,-73.8959
+,10,Bronx,Tiffany Playground,0,0,5,274,15,20,0,50,40.8249,-73.8944
+,0,Brooklyn,Hamilton Metz Field,0,0,0,275,0,0,0,0,40.6626,-73.9409
+,15,Brooklyn,Hamilton Metz Field,0,0,18,276,15,27,30,105,40.6626,-73.9409
+,18,Brooklyn,Hamilton Metz Field,0,0,14,277,17,22,36,107,40.6626,-73.9409
+,13,Brooklyn,Hamilton Metz Field,0,0,17,278,0,15,0,45,40.6626,-73.9409
+,12,Bronx,Claremont Park,0,0,10,279,6,12,0,40,40.8424,-73.9091
+,12,Bronx,Claremont Park,0,0,10,280,6,12,0,40,40.8379,-73.9081
+,60,Bronx,Martin Van Buren Playground,0,0,70,281,69,60,0,259,40.8353,-73.8959
+,0,Bronx,Claremont Park,0,0,10,282,0,12,0,22,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,10,283,0,12,0,22,40.8379,-73.9081
+,17,Bronx,Tiffany Playground,0,0,11,284,21,14,21,84,40.8249,-73.8944
+,0,Queens,Linden Park,0,100,100,285,120,3,210,533,40.7486,-73.8619
+,0,Queens,Linden Park,0,100,100,286,120,3,210,533,40.6593,-73.8875
+,0,Queens,Linden Park,0,100,100,287,120,3,210,533,40.6587,-73.8867
+,0,Bronx,Martin Van Buren Playground,0,0,0,288,30,0,45,75,40.8353,-73.8959
+,0,Bronx,Tiffany Playground,0,0,0,289,5,0,20,25,40.8249,-73.8944
+,0,Bronx,Claremont Park,0,0,0,290,10,0,25,35,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,0,291,10,0,25,35,40.8379,-73.9081
+,0,Bronx,Claremont Park,0,0,0,292,0,0,0,0,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,0,293,0,0,0,0,40.8379,-73.9081
+,0,Bronx,Martin Van Buren Playground,0,0,0,294,0,0,0,0,40.8353,-73.8959
+,0,Bronx,Tiffany Playground,0,0,0,295,0,0,0,0,40.8249,-73.8944
+,0,Manhattan,Bloomingdale Playground,0,0,100,296,0,100,25,225,40.7993,-73.966
+,241,Manhattan,Union Square,0,0,308,297,237,307,0,1093,40.736,-73.9908
+,65,Brooklyn,Linden Park,0,0,70,298,78,80,77,370,40.7486,-73.8619
+,65,Brooklyn,Linden Park,0,0,70,299,78,80,77,370,40.6593,-73.8875
+,65,Brooklyn,Linden Park,0,0,70,300,78,80,77,370,40.6587,-73.8867
+,84,Brooklyn,Linden Park,0,0,79,301,57,65,70,355,40.7486,-73.8619
+,84,Brooklyn,Linden Park,0,0,79,302,57,65,70,355,40.6593,-73.8875
+,84,Brooklyn,Linden Park,0,0,79,303,57,65,70,355,40.6587,-73.8867
+,40,Brooklyn,Maria Hernandez Park,0,0,29,304,39,33,30,171,40.7036,-73.9234
+,40,Brooklyn,Maria Hernandez Park,0,0,29,305,39,33,30,171,40.7028,-73.9243
+,38,Brooklyn,Maria Hernandez Park,0,0,42,306,40,30,30,180,40.7036,-73.9234
+,38,Brooklyn,Maria Hernandez Park,0,0,42,307,40,30,30,180,40.7028,-73.9243
+,68,Brooklyn,Maria Hernandez Park,0,0,50,308,45,49,51,263,40.7036,-73.9234
+,68,Brooklyn,Maria Hernandez Park,0,0,50,309,45,49,51,263,40.7028,-73.9243
+,54,Brooklyn,Maria Hernandez Park,0,0,58,310,49,47,40,248,40.7036,-73.9234
+,54,Brooklyn,Maria Hernandez Park,0,0,58,311,49,47,40,248,40.7028,-73.9243
+,60,Brooklyn,Maria Hernandez Park,0,0,65,312,55,60,50,290,40.7036,-73.9234
+,60,Brooklyn,Maria Hernandez Park,0,0,65,313,55,60,50,290,40.7028,-73.9243
+,50,Brooklyn,Osborn Playground,0,0,40,314,44,50,55,239,40.6557,-73.9061
+,56,Brooklyn,Osborn Playground,0,0,45,315,50,40,35,226,40.6557,-73.9061
+,90,Manhattan,Bloomingdale Playground,0,120,100,316,120,120,0,550,40.7993,-73.966
+,36,Bronx,Tiffany Playground,0,0,35,317,48,65,20,204,40.8249,-73.8944
+,53,Bronx,Martin Van Buren Playground,0,0,45,318,54,47,92,291,40.8353,-73.8959
+,18,Bronx,People's Park,0,0,16,319,10,14,20,78,40.8095,-73.9171
+,80,Manhattan,Bloomingdale Playground,0,0,80,320,100,120,80,460,40.7993,-73.966
+,148,Manhattan,Union Square,0,0,176,321,79,171,207,781,40.736,-73.9908
+,27,Manhattan,Union Square,0,297,0,322,146,271,341,1082,40.736,-73.9908
+,180,Manhattan,Bloomingdale Playground,0,0,180,323,160,0,0,520,40.7993,-73.966
+,34,Brooklyn,Osborn Playground,0,0,45,324,40,23,29,171,40.6557,-73.9061
+,28,Brooklyn,Osborn Playground,0,0,32,325,21,25,40,146,40.6557,-73.9061
+,27,Brooklyn,Osborn Playground,0,0,31,326,28,32,28,146,40.6557,-73.9061
+,31,Brooklyn,Osborn Playground,0,0,24,327,27,28,42,152,40.6557,-73.9061
+,30,Brooklyn,Osborn Playground,0,0,35,328,29,36,50,180,40.6557,-73.9061
+,75,Brooklyn,Linden Park,0,0,60,329,65,80,100,380,40.7486,-73.8619
+,75,Brooklyn,Linden Park,0,0,60,330,65,80,100,380,40.6593,-73.8875
+,75,Brooklyn,Linden Park,0,0,60,331,65,80,100,380,40.6587,-73.8867
+,21,Bronx,Claremont Park,0,0,26,332,33,24,20,124,40.8424,-73.9091
+,21,Bronx,Claremont Park,0,0,26,333,33,24,20,124,40.8379,-73.9081
+,54,Bronx,Martin Van Buren Playground,0,0,40,334,43,55,65,257,40.8353,-73.8959
+,35,Bronx,Tiffany Playground,0,0,50,335,55,61,20,221,40.8249,-73.8944
+,24,Bronx,People's Park,0,0,14,336,14,16,18,86,40.8095,-73.9171
+,39,Brooklyn,Maria Hernandez Park,0,0,60,337,40,48,51,238,40.7036,-73.9234
+,39,Brooklyn,Maria Hernandez Park,0,0,60,338,40,48,51,238,40.7028,-73.9243
+,48,Brooklyn,Maria Hernandez Park,0,0,59,339,55,60,0,222,40.7036,-73.9234
+,48,Brooklyn,Maria Hernandez Park,0,0,59,340,55,60,0,222,40.7028,-73.9243
+,29,Bronx,Claremont Park,0,0,18,341,0,43,45,135,40.8424,-73.9091
+,29,Bronx,Claremont Park,0,0,18,342,0,43,45,135,40.8379,-73.9081
+,48,Bronx,Martin Van Buren Playground,0,0,43,343,0,82,98,271,40.8353,-73.8959
+,18,Bronx,People's Park,0,0,15,344,24,25,30,112,40.8095,-73.9171
+,0,Bronx,Tiffany Playground,0,0,0,345,0,0,0,0,40.8249,-73.8944
+,58,Brooklyn,Linden Park,0,0,65,346,60,90,120,393,40.7486,-73.8619
+,58,Brooklyn,Linden Park,0,0,65,347,60,90,120,393,40.6593,-73.8875
+,58,Brooklyn,Linden Park,0,0,65,348,60,90,120,393,40.6587,-73.8867
+,58,Brooklyn,Maria Hernandez Park,0,0,62,349,60,47,0,227,40.7036,-73.9234
+,58,Brooklyn,Maria Hernandez Park,0,0,62,350,60,47,0,227,40.7028,-73.9243
+,33,Bronx,Claremont Park,0,0,37,351,26,41,47,184,40.8424,-73.9091
+,33,Bronx,Claremont Park,0,0,37,352,26,41,47,184,40.8379,-73.9081
+,0,Bronx,Martin Van Buren Playground,0,0,35,353,31,55,68,189,40.8353,-73.8959
+,0,Bronx,People's Park,0,0,0,354,0,0,0,0,40.8095,-73.9171
+,0,Bronx,Tiffany Playground,0,0,0,355,0,0,0,0,40.8249,-73.8944
+,0,Manhattan,Bloomingdale Playground,0,0,105,356,170,170,40,485,40.7993,-73.966
+,0,Manhattan,Union Square,0,0,167,357,238,427,0,832,40.736,-73.9908
+,110,Manhattan,Bloomingdale Playground,0,0,110,358,120,100,65,505,40.7993,-73.966
+,100,Manhattan,Bloomingdale Playground,0,0,0,359,105,120,0,325,40.7993,-73.966
+,103,Queens,Lawrence Playground,0,0,80,360,0,0,207,390,40.7484,-73.8338
+,102,Queens,Underhill Playground,0,0,160,361,220,215,280,977,40.7447,-73.7876
+,102,Queens,Underhill Playground,0,0,160,362,220,215,280,977,40.6767,-73.9657
+,57,Queens,Underhill Playground,0,0,115,363,128,220,235,755,40.7447,-73.7876
+,57,Queens,Underhill Playground,0,0,115,364,128,220,235,755,40.6767,-73.9657
+,203,Queens,Brookville Playground,0,0,138,365,311,256,0,908,40.6632,-73.7414
+,68,Queens,Lower Highland Playground,0,0,52,366,65,83,120,388,40.684,-73.8857
+,63,Queens,Lower Highland Playground,0,0,75,367,84,110,125,457,40.684,-73.8857
+,0,Bronx,Claremont Park,0,0,20,368,20,20,0,60,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,20,369,20,20,0,60,40.8379,-73.9081
+,0,Bronx,Martin Van Buren Playground,0,0,45,370,40,60,0,145,40.8353,-73.8959
+,0,Bronx,Tiffany Playground,0,0,0,371,0,0,0,0,40.8249,-73.8944
+,0,Bronx,People's Park,0,0,18,372,20,12,0,50,40.8095,-73.9171
+,39,Brooklyn,Owls Head Park,0,0,44,373,0,0,0,83,40.6394,-74.0308
+,39,Brooklyn,Owls Head Park,0,0,44,374,0,0,0,83,40.64,-74.0305
+,45,Brooklyn,Owls Head Park,0,0,40,375,50,60,57,252,40.6394,-74.0308
+,45,Brooklyn,Owls Head Park,0,0,40,376,50,60,57,252,40.64,-74.0305
+,57,Brooklyn,Owls Head Park,0,0,46,377,63,62,60,288,40.6394,-74.0308
+,57,Brooklyn,Owls Head Park,0,0,46,378,63,62,60,288,40.64,-74.0305
+,27,Brooklyn,Osborn Playground,0,0,29,379,37,40,41,174,40.6557,-73.9061
+,43,Brooklyn,Osborn Playground,0,0,35,380,39,29,0,146,40.6557,-73.9061
+,100,Manhattan,Bloomingdale Playground,0,0,0,381,105,120,0,325,40.7993,-73.966
+,38,Brooklyn,Osborn Playground,0,0,42,382,34,27,37,178,40.6557,-73.9061
+,110,Manhattan,Bloomingdale Playground,0,0,110,383,120,100,65,505,40.7993,-73.966
+,59,Brooklyn,Maria Hernandez Park,0,0,67,384,64,44,43,277,40.7036,-73.9234
+,59,Brooklyn,Maria Hernandez Park,0,0,67,385,64,44,43,277,40.7028,-73.9243
+,58,Brooklyn,Maria Hernandez Park,0,0,48,386,62,47,0,215,40.7036,-73.9234
+,58,Brooklyn,Maria Hernandez Park,0,0,48,387,62,47,0,215,40.7028,-73.9243
+,44,Brooklyn,Maria Hernandez Park,0,0,56,388,49,52,59,260,40.7036,-73.9234
+,44,Brooklyn,Maria Hernandez Park,0,0,56,389,49,52,59,260,40.7028,-73.9243
+,101,Brooklyn,Linden Park,0,0,98,390,85,100,90,474,40.7486,-73.8619
+,101,Brooklyn,Linden Park,0,0,98,391,85,100,90,474,40.6593,-73.8875
+,101,Brooklyn,Linden Park,0,0,98,392,85,100,90,474,40.6587,-73.8867
+,80,Brooklyn,Linden Park,0,0,100,393,90,110,100,480,40.7486,-73.8619
+,80,Brooklyn,Linden Park,0,0,100,394,90,110,100,480,40.6593,-73.8875
+,80,Brooklyn,Linden Park,0,0,100,395,90,110,100,480,40.6587,-73.8867
+,250,Brooklyn,Carroll Park,0,90,0,396,125,80,0,545,40.6811,-73.9954
+,160,Brooklyn,Carroll Park,0,0,100,397,80,175,0,515,40.6811,-73.9954
+,386,Manhattan,Union Square,0,0,0,398,346,357,294,1383,40.736,-73.9908
+,44,Bronx,Echo Park,0,0,13,399,60,45,0,162,40.8492,-73.9013
+,25,Bronx,Martin Van Buren Playground,0,0,10,400,90,85,62,272,40.8353,-73.8959
+,30,Bronx,Tiffany Playground,0,0,0,401,50,56,30,166,40.8249,-73.8944
+,20,Bronx,People's Park,0,0,10,402,20,29,15,94,40.8095,-73.9171
+,34,Bronx,Loreto Playground,0,0,10,403,54,45,0,143,40.8491,-73.8521
+,107,Queens,Brookville Playground,0,0,140,404,128,212,230,817,40.6632,-73.7414
+,183,Manhattan,Union Square,0,0,179,405,153,99,223,837,40.736,-73.9908
+,167,Manhattan,Union Square,0,0,247,406,298,307,374,1393,40.736,-73.9908
+,625,Manhattan,Thomas Jefferson Park,0,0,645,407,597,0,0,1867,40.7922,-73.9355
+,625,Manhattan,Thomas Jefferson Park,0,0,645,408,597,0,0,1867,40.7934,-73.934
+,55,Queens,Lawrence Playground,0,0,0,409,0,40,95,190,40.7484,-73.8338
+,116,Queens,Lawrence Playground,0,0,225,410,45,30,190,606,40.7484,-73.8338
+,31,Queens,Brookville Playground,0,0,44,411,28,88,23,214,40.6632,-73.7414
+,42,Bronx,Tiffany Playground,0,0,48,412,60,30,50,230,40.8249,-73.8944
+,18,Bronx,People's Park,0,0,56,413,18,30,0,122,40.8095,-73.9171
+,80,Bronx,Martin Van Buren Playground,0,0,64,414,50,72,0,266,40.8353,-73.8959
+,37,Bronx,Claremont Park,0,0,33,415,40,30,49,189,40.8424,-73.9091
+,37,Bronx,Claremont Park,0,0,33,416,40,30,49,189,40.8379,-73.9081
+,0,Bronx,Loreto Playground,0,0,0,417,38,47,27,112,40.8491,-73.8521
+,27,Bronx,Echo Park,0,0,22,418,30,18,35,132,40.8492,-73.9013
+,120,Brooklyn,Linden Park,0,0,100,419,90,0,80,390,40.7486,-73.8619
+,120,Brooklyn,Linden Park,0,0,100,420,90,0,80,390,40.6593,-73.8875
+,120,Brooklyn,Linden Park,0,0,100,421,90,0,80,390,40.6587,-73.8867
+,44,Queens,Brookville Playground,0,0,31,422,21,0,78,174,40.6632,-73.7414
+,554,Manhattan,Thomas Jefferson Park,0,0,454,423,557,712,598,2875,40.7922,-73.9355
+,554,Manhattan,Thomas Jefferson Park,0,0,454,424,557,712,598,2875,40.7934,-73.934
+,108,Manhattan,Frederick Johnson Park,0,0,90,425,131,100,170,599,40.8248,-73.9355
+,207,Manhattan,Union Square,0,0,197,426,247,0,337,988,40.736,-73.9908
+,120,Manhattan,Bloomingdale Playground,0,0,0,427,0,0,40,160,40.7993,-73.966
+,42,Staten Island,Dugan Playground,0,0,50,428,42,53,73,260,40.5614,-74.1108
+,18,Bronx,Echo Park,0,0,96,429,33,0,45,192,40.8492,-73.9013
+,40,Bronx,Loreto Playground,0,0,35,430,35,0,32,142,40.8491,-73.8521
+,23,Bronx,People's Park,0,0,20,431,54,0,23,120,40.8095,-73.9171
+,32,Bronx,Tiffany Playground,0,0,15,432,58,0,57,162,40.8249,-73.8944
+,56,Bronx,Martin Van Buren Playground,0,0,0,433,72,0,0,128,40.8353,-73.8959
+,37,Bronx,Claremont Park,0,0,33,434,41,0,0,111,40.8424,-73.9091
+,37,Bronx,Claremont Park,0,0,33,435,41,0,0,111,40.8379,-73.9081
+,42,Brooklyn,Osborn Playground,0,0,40,436,38,25,45,190,40.6557,-73.9061
+,47,Brooklyn,Osborn Playground,0,0,35,437,45,50,40,217,40.6557,-73.9061
+,0,Brooklyn,Maria Hernandez Park,0,0,0,438,0,0,0,0,40.7036,-73.9234
+,0,Brooklyn,Maria Hernandez Park,0,0,0,439,0,0,0,0,40.7028,-73.9243
+,60,Brooklyn,Maria Hernandez Park,0,0,45,440,50,40,55,250,40.7036,-73.9234
+,60,Brooklyn,Maria Hernandez Park,0,0,45,441,50,40,55,250,40.7028,-73.9243
+,60,Brooklyn,Maria Hernandez Park,0,0,60,442,45,41,50,256,40.7036,-73.9234
+,60,Brooklyn,Maria Hernandez Park,0,0,60,443,45,41,50,256,40.7028,-73.9243
+,65,Brooklyn,Owls Head Park,0,0,50,444,45,67,0,227,40.6394,-74.0308
+,65,Brooklyn,Owls Head Park,0,0,50,445,45,67,0,227,40.64,-74.0305
+,80,Brooklyn,Linden Park,0,0,100,446,95,100,90,465,40.7486,-73.8619
+,80,Brooklyn,Linden Park,0,0,100,447,95,100,90,465,40.6593,-73.8875
+,80,Brooklyn,Linden Park,0,0,100,448,95,100,90,465,40.6587,-73.8867
+,78,Brooklyn,Linden Park,0,0,100,449,90,90,70,428,40.7486,-73.8619
+,78,Brooklyn,Linden Park,0,0,100,450,90,90,70,428,40.6593,-73.8875
+,78,Brooklyn,Linden Park,0,0,100,451,90,90,70,428,40.6587,-73.8867
+,90,Brooklyn,Carroll Park,0,80,76,452,67,40,0,353,40.6811,-73.9954
+,60,Brooklyn,Carroll Park,0,67,90,453,80,0,0,297,40.6811,-73.9954
+,45,Queens,Brookville Playground,0,0,48,454,22,18,17,150,40.6632,-73.7414
+,50,Queens,Lower Highland Playground,0,0,50,455,30,30,20,180,40.684,-73.8857
+,215,Queens,Underhill Playground,0,0,120,456,303,178,324,1140,40.7447,-73.7876
+,215,Queens,Underhill Playground,0,0,120,457,303,178,324,1140,40.6767,-73.9657
+,284,Manhattan,Union Square,0,0,297,458,258,317,358,1514,40.736,-73.9908
+,140,Manhattan,Frederick Johnson Park,0,0,92,459,135,110,63,540,40.8248,-73.9355
+,100,Manhattan,Bloomingdale Playground,0,0,120,460,120,130,60,530,40.7993,-73.966
+,268,Manhattan,Thomas Jefferson Park,0,0,282,461,0,126,371,1047,40.7922,-73.9355
+,268,Manhattan,Thomas Jefferson Park,0,0,282,462,0,126,371,1047,40.7934,-73.934
+,83,Manhattan,Frederick Johnson Park,0,0,108,463,0,0,0,191,40.8248,-73.9355
+,100,Manhattan,Bloomingdale Playground,0,0,120,464,0,80,0,300,40.7993,-73.966
+,0,Manhattan,Union Square,0,0,111,465,250,275,257,893,40.736,-73.9908
+,45,Bronx,Tiffany Playground,0,0,50,466,38,54,36,223,40.8249,-73.8944
+,34,Bronx,Echo Park,0,0,16,467,15,45,54,164,40.8492,-73.9013
+,42,Bronx,Loreto Playground,0,0,39,468,34,36,35,186,40.8491,-73.8521
+,85,Bronx,Martin Van Buren Playground,0,0,72,469,82,76,56,371,40.8353,-73.8959
+,30,Bronx,People's Park,0,0,14,470,20,16,40,120,40.8095,-73.9171
+,31,Bronx,Claremont Park,0,0,36,471,0,37,25,129,40.8424,-73.9091
+,31,Bronx,Claremont Park,0,0,36,472,0,37,25,129,40.8379,-73.9081
+,43,Staten Island,Dugan Playground,0,0,20,473,32,48,53,196,40.5614,-74.1108
+,27,Staten Island,Mahoney Playground,0,0,30,474,25,30,34,146,40.6434,-74.0858
+,0,Queens,Lawrence Playground,0,0,70,475,90,45,0,205,40.7484,-73.8338
+,50,Queens,Lower Highland Playground,0,0,70,476,50,20,20,210,40.684,-73.8857
+,35,Queens,Brookville Playground,0,0,20,477,37,48,15,155,40.6632,-73.7414
+,163,Queens,Underhill Playground,0,0,180,478,210,340,475,1368,40.7447,-73.7876
+,163,Queens,Underhill Playground,0,0,180,479,210,340,475,1368,40.6767,-73.9657
+,18,Bronx,Tiffany Playground,0,0,112,480,55,35,0,220,40.8249,-73.8944
+,10,Bronx,Loreto Playground,0,0,44,481,45,63,0,162,40.8491,-73.8521
+,57,Bronx,Martin Van Buren Playground,0,0,76,482,83,101,0,317,40.8353,-73.8959
+,24,Bronx,Echo Park,0,0,68,483,30,29,0,151,40.8492,-73.9013
+,23,Bronx,Claremont Park,0,0,41,484,26,35,0,125,40.8424,-73.9091
+,23,Bronx,Claremont Park,0,0,41,485,26,35,0,125,40.8379,-73.9081
+,6,Bronx,People's Park,0,0,18,486,20,28,0,72,40.8095,-73.9171
+,35,Brooklyn,Osborn Playground,0,0,30,487,33,35,38,171,40.6557,-73.9061
+,45,Brooklyn,Maria Hernandez Park,0,0,40,488,50,0,0,135,40.7036,-73.9234
+,45,Brooklyn,Maria Hernandez Park,0,0,40,489,50,0,0,135,40.7028,-73.9243
+,56,Brooklyn,Owls Head Park,0,0,45,490,60,0,0,161,40.6394,-74.0308
+,56,Brooklyn,Owls Head Park,0,0,45,491,60,0,0,161,40.64,-74.0305
+,140,Brooklyn,Carroll Park,0,0,150,492,140,150,0,580,40.6811,-73.9954
+,100,Brooklyn,Linden Park,0,0,150,493,150,0,0,400,40.7486,-73.8619
+,100,Brooklyn,Linden Park,0,0,150,494,150,0,0,400,40.6593,-73.8875
+,100,Brooklyn,Linden Park,0,0,150,495,150,0,0,400,40.6587,-73.8867
+,100,Brooklyn,Linden Park,0,0,120,496,90,100,100,510,40.7486,-73.8619
+,100,Brooklyn,Linden Park,0,0,120,497,90,100,100,510,40.6593,-73.8875
+,100,Brooklyn,Linden Park,0,0,120,498,90,100,100,510,40.6587,-73.8867
+,0,Manhattan,Bloomingdale Playground,0,0,150,499,160,115,40,465,40.7993,-73.966
+,46,Manhattan,Frederick Johnson Park,0,0,130,500,158,90,72,496,40.8248,-73.9355
+,105,Manhattan,Thomas Jefferson Park,0,0,108,501,217,223,186,839,40.7922,-73.9355
+,105,Manhattan,Thomas Jefferson Park,0,0,108,502,217,223,186,839,40.7934,-73.934
+,30,Queens,Lower Highland Playground,0,0,60,503,30,70,20,210,40.684,-73.8857
+,85,Queens,Lawrence Playground,0,0,0,504,0,60,100,245,40.7484,-73.8338
+,89,Staten Island,Dugan Playground,0,0,65,505,49,52,43,298,40.5614,-74.1108
+,0,Staten Island,Mahoney Playground,0,0,22,506,46,37,48,153,40.6434,-74.0858
+,94,Queens,Underhill Playground,0,0,40,507,38,51,35,258,40.7447,-73.7876
+,94,Queens,Underhill Playground,0,0,40,508,38,51,35,258,40.6767,-73.9657
+,47,Bronx,Claremont Park,0,0,41,509,39,46,0,173,40.8424,-73.9091
+,47,Bronx,Claremont Park,0,0,41,510,39,46,0,173,40.8379,-73.9081
+,40,Bronx,Echo Park,0,0,30,511,45,43,0,158,40.8492,-73.9013
+,101,Bronx,Martin Van Buren Playground,0,0,59,512,0,83,0,243,40.8353,-73.8959
+,100,Bronx,Tiffany Playground,0,0,32,513,25,45,0,202,40.8249,-73.8944
+,24,Bronx,People's Park,0,0,17,514,10,16,0,67,40.8095,-73.9171
+,0,Bronx,Loreto Playground,0,0,62,515,28,62,0,152,40.8491,-73.8521
+,250,Manhattan,Bloomingdale Playground,0,0,80,516,0,120,65,515,40.7993,-73.966
+,165,Manhattan,Thomas Jefferson Park,0,0,261,517,0,178,119,723,40.7922,-73.9355
+,165,Manhattan,Thomas Jefferson Park,0,0,261,518,0,178,119,723,40.7934,-73.934
+,106,Manhattan,Union Square,0,0,164,519,78,86,148,582,40.736,-73.9908
+,100,Manhattan,Bloomingdale Playground,0,0,80,520,0,0,95,275,40.7993,-73.966
+,65,Brooklyn,Coffey Park,0,0,49,521,77,70,69,330,40.6771,-74.009
+,70,Brooklyn,Coffey Park,0,0,76,522,65,80,49,340,40.6771,-74.009
+,70,Brooklyn,Owls Head Park,0,0,53,523,37,65,50,275,40.6394,-74.0308
+,70,Brooklyn,Owls Head Park,0,0,53,524,37,65,50,275,40.64,-74.0305
+,0,Queens,Underhill Playground,0,0,0,525,0,0,0,0,40.7447,-73.7876
+,0,Queens,Underhill Playground,0,0,0,526,0,0,0,0,40.6767,-73.9657
+,0,Queens,Brookville Playground,0,0,0,527,18,28,33,79,40.6632,-73.7414
+,21,Queens,Brookville Playground,0,0,17,528,37,20,15,110,40.6632,-73.7414
+,26,Queens,Brookville Playground,0,0,23,529,22,0,39,110,40.6632,-73.7414
+,45,Queens,Lawrence Playground,0,0,0,530,85,0,125,255,40.7484,-73.8338
+,31,Staten Island,Mahoney Playground,0,0,40,531,27,20,38,156,40.6434,-74.0858
+,20,Queens,Lower Highland Playground,0,0,30,532,5,20,15,90,40.684,-73.8857
+,33,Brooklyn,Osborn Playground,0,0,32,533,30,36,35,166,40.6557,-73.9061
+,15,Bronx,Echo Park,0,0,43,534,43,28,20,149,40.8492,-73.9013
+,22,Bronx,People's Park,0,0,0,535,35,42,56,155,40.8095,-73.9171
+,75,Bronx,Tiffany Playground,0,0,65,536,35,55,45,275,40.8249,-73.8944
+,32,Bronx,Loreto Playground,0,0,57,537,35,31,50,205,40.8491,-73.8521
+,47,Bronx,Martin Van Buren Playground,0,0,67,538,50,60,0,224,40.8353,-73.8959
+,34,Bronx,Claremont Park,0,0,48,539,49,53,0,184,40.8424,-73.9091
+,34,Bronx,Claremont Park,0,0,48,540,49,53,0,184,40.8379,-73.9081
+,45,Brooklyn,Carroll Park,0,0,65,541,35,35,50,230,40.6811,-73.9954
+,50,Brooklyn,Maria Hernandez Park,0,0,55,542,40,60,45,250,40.7036,-73.9234
+,50,Brooklyn,Maria Hernandez Park,0,0,55,543,40,60,45,250,40.7028,-73.9243
+,162,Manhattan,Union Square,0,0,68,544,0,0,225,455,40.736,-73.9908
+,205,Queens,Lower Highland Playground,0,0,135,545,168,285,310,1103,40.684,-73.8857
+,43,Brooklyn,Maria Hernandez Park,0,0,67,546,50,61,70,291,40.7036,-73.9234
+,43,Brooklyn,Maria Hernandez Park,0,0,67,547,50,61,70,291,40.7028,-73.9243
+,40,Brooklyn,Osborn Playground,0,0,38,548,23,30,36,167,40.6557,-73.9061
+,31,Brooklyn,Owls Head Park,0,0,57,549,71,0,61,220,40.6394,-74.0308
+,31,Brooklyn,Owls Head Park,0,0,57,550,71,0,61,220,40.64,-74.0305
+,35,Brooklyn,Carroll Park,0,50,40,551,32,41,0,198,40.6811,-73.9954
+,40,Brooklyn,Maria Hernandez Park,0,0,50,552,56,0,70,216,40.7036,-73.9234
+,40,Brooklyn,Maria Hernandez Park,0,0,50,553,56,0,70,216,40.7028,-73.9243
+,40,Staten Island,Mahoney Playground,0,0,31,554,34,22,46,173,40.6434,-74.0858
+,189,Manhattan,Union Square,0,0,0,555,134,178,225,726,40.736,-73.9908
+,127,Manhattan,Frederick Johnson Park,0,0,105,556,101,107,245,685,40.8248,-73.9355
+,145,Manhattan,Frederick Johnson Park,0,0,0,557,136,32,109,422,40.8248,-73.9355
+,100,Manhattan,Bloomingdale Playground,0,0,0,558,115,55,40,310,40.7993,-73.966
+,223,Manhattan,Union Square,0,0,187,559,203,171,225,1009,40.736,-73.9908
+,90,Manhattan,Bloomingdale Playground,0,0,110,560,55,65,80,400,40.7993,-73.966
+,110,Bronx,Echo Park,0,0,120,561,85,0,0,315,40.8492,-73.9013
+,46,Bronx,Loreto Playground,0,0,67,562,63,0,0,176,40.8491,-73.8521
+,90,Bronx,Martin Van Buren Playground,0,0,67,563,45,0,38,240,40.8353,-73.8959
+,49,Bronx,Claremont Park,0,0,48,564,45,0,56,198,40.8424,-73.9091
+,49,Bronx,Claremont Park,0,0,48,565,45,0,56,198,40.8379,-73.9081
+,50,Bronx,Tiffany Playground,0,0,110,566,35,0,50,245,40.8249,-73.8944
+,42,Bronx,People's Park,0,0,30,567,50,0,29,151,40.8095,-73.9171
+,30,Brooklyn,Osborn Playground,25,0,0,568,33,35,0,123,40.6557,-73.9061
+,30,Brooklyn,Osborn Playground,25,0,0,569,33,35,0,123,40.6557,-73.9061
+,0,Brooklyn,Coffey Park,0,0,0,570,60,50,40,150,40.6771,-74.009
+,52,Brooklyn,Owls Head Park,0,0,64,571,61,0,45,222,40.6394,-74.0308
+,52,Brooklyn,Owls Head Park,0,0,64,572,61,0,45,222,40.64,-74.0305
+,43,Bronx,Claremont Park,0,47,0,573,49,0,36,175,40.8424,-73.9091
+,43,Bronx,Claremont Park,0,47,0,574,49,0,36,175,40.8379,-73.9081
+,40,Brooklyn,Carroll Park,0,0,30,575,40,50,40,200,40.6811,-73.9954
+,39,Staten Island,Mahoney Playground,0,0,0,576,43,32,40,154,40.6434,-74.0858
+,25,Staten Island,Mahoney Playground,0,0,27,577,28,48,40,168,40.6434,-74.0858
+,50,Bronx,Loreto Playground,0,0,0,578,54,0,58,162,40.8491,-73.8521
+,50,Bronx,Echo Park,0,0,0,579,35,0,45,130,40.8492,-73.9013
+,55,Bronx,Martin Van Buren Playground,0,0,0,580,80,0,0,135,40.8353,-73.8959
+,27,Bronx,People's Park,0,24,0,581,16,0,25,92,40.8095,-73.9171
+,60,Bronx,Tiffany Playground,0,50,0,582,53,0,50,213,40.8249,-73.8944
+,76,Bronx,Martin Van Buren Playground,0,0,52,583,75,80,100,383,40.8353,-73.8959
+,45,Bronx,People's Park,0,0,25,584,41,36,35,182,40.8095,-73.9171
+,46,Bronx,Claremont Park,0,0,37,585,48,52,46,229,40.8424,-73.9091
+,46,Bronx,Claremont Park,0,0,37,586,48,52,46,229,40.8379,-73.9081
+,25,Bronx,Tiffany Playground,0,0,30,587,27,50,50,182,40.8249,-73.8944
+,99,Manhattan,Frederick Johnson Park,0,0,114,588,305,85,92,695,40.8248,-73.9355
+,0,Manhattan,Frederick Johnson Park,0,0,0,589,0,56,30,86,40.8248,-73.9355
+,130,Manhattan,Bloomingdale Playground,0,0,390,590,140,0,0,660,40.7993,-73.966
+,60,Bronx,Martin Van Buren Playground,0,0,55,591,0,0,0,115,40.8353,-73.8959
+,0,Bronx,People's Park,0,0,25,592,0,0,0,25,40.8095,-73.9171
+,39,Bronx,Claremont Park,0,0,47,593,49,36,0,171,40.8424,-73.9091
+,39,Bronx,Claremont Park,0,0,47,594,49,36,0,171,40.8379,-73.9081
+,35,Bronx,Tiffany Playground,0,0,45,595,0,25,25,130,40.8249,-73.8944
+,164,Manhattan,Union Square,0,0,109,596,152,158,144,727,40.736,-73.9908
+,100,Manhattan,Bloomingdale Playground,0,0,135,597,110,80,11,436,40.7993,-73.966
+,56,Bronx,Martin Van Buren Playground,0,0,67,598,75,0,0,198,40.8353,-73.8959
+,20,Bronx,People's Park,0,0,23,599,50,0,15,108,40.8095,-73.9171
+,57,Bronx,Claremont Park,0,0,61,600,66,0,0,184,40.8424,-73.9091
+,57,Bronx,Claremont Park,0,0,61,601,66,0,0,184,40.8379,-73.9081
+,50,Bronx,Tiffany Playground,0,0,50,602,60,0,16,176,40.8249,-73.8944
+,168,Manhattan,Union Square,0,0,37,603,180,187,225,797,40.736,-73.9908
+,120,Manhattan,Bloomingdale Playground,0,0,0,604,0,0,45,165,40.7993,-73.966
+,60,Bronx,Tiffany Playground,0,0,0,605,45,70,70,245,40.8249,-73.8944
+,10,Bronx,People's Park,0,0,0,606,35,25,45,115,40.8095,-73.9171
+,63,Bronx,Martin Van Buren Playground,0,0,0,607,87,80,92,322,40.8353,-73.8959
+,59,Bronx,Claremont Park,0,0,0,608,93,69,98,319,40.8424,-73.9091
+,59,Bronx,Claremont Park,0,0,0,609,93,69,98,319,40.8379,-73.9081
+,150,Manhattan,Bloomingdale Playground,0,0,45,610,140,150,60,545,40.7993,-73.966
+,184,Manhattan,Union Square,0,0,64,611,210,0,225,683,40.736,-73.9908
+,40,Staten Island,Mahoney Playground,0,0,30,612,38,47,43,198,40.6434,-74.0858
+,14,Bronx,People's Park,0,0,6,613,0,17,0,37,40.8095,-73.9171
+,80,Bronx,Tiffany Playground,0,0,20,614,0,65,35,200,40.8249,-73.8944
+,30,Bronx,Martin Van Buren Playground,0,0,53,615,0,78,68,229,40.8353,-73.8959
+,21,Bronx,Claremont Park,0,0,63,616,0,83,107,274,40.8424,-73.9091
+,21,Bronx,Claremont Park,0,0,63,617,0,83,107,274,40.8379,-73.9081
+,100,Manhattan,Bloomingdale Playground,0,0,130,618,0,108,0,338,40.7993,-73.966
+,80,Manhattan,Union Square,0,0,125,619,0,145,278,628,40.736,-73.9908
+,54,Queens,Electric Playground,0,0,26,620,621,38,100,839,40.7359,-73.8054
+,22,Staten Island,Mahoney Playground,0,0,25,621,0,34,25,106,40.6434,-74.0858
+,52,Bronx,Martin Van Buren Playground,0,0,61,622,0,72,54,239,40.8353,-73.8959
+,18,Bronx,People's Park,0,0,21,623,0,0,30,69,40.8095,-73.9171
+,54,Bronx,Claremont Park,0,0,63,624,0,65,95,277,40.8424,-73.9091
+,54,Bronx,Claremont Park,0,0,63,625,0,65,95,277,40.8379,-73.9081
+,35,Bronx,Tiffany Playground,0,0,55,626,0,50,30,170,40.8249,-73.8944
+,140,Manhattan,Bloomingdale Playground,0,0,110,627,125,90,30,495,40.7993,-73.966
+,200,Manhattan,Union Square,0,0,210,628,110,0,120,640,40.736,-73.9908
+,220,Queens,Electric Playground,0,0,146,629,38,19,96,519,40.7359,-73.8054
+,70,Bronx,Tiffany Playground,0,0,50,630,70,55,0,245,40.8249,-73.8944
+,81,Bronx,Claremont Park,0,0,63,631,94,85,0,323,40.8424,-73.9091
+,81,Bronx,Claremont Park,0,0,63,632,94,85,0,323,40.8379,-73.9081
+,40,Bronx,People's Park,0,0,25,633,35,20,0,120,40.8095,-73.9171
+,72,Bronx,Martin Van Buren Playground,0,0,52,634,52,44,0,220,40.8353,-73.8959
+,215,Manhattan,Union Square,0,0,250,635,168,215,0,848,40.736,-73.9908
+,115,Manhattan,Bloomingdale Playground,0,0,90,636,145,140,0,490,40.7993,-73.966
+,10,Bronx,People's Park,0,0,12,637,13,15,0,50,40.8095,-73.9171
+,59,Bronx,Claremont Park,0,0,58,638,50,47,0,214,40.8424,-73.9091
+,59,Bronx,Claremont Park,0,0,58,639,50,47,0,214,40.8379,-73.9081
+,50,Bronx,Martin Van Buren Playground,0,0,30,640,37,0,0,117,40.8353,-73.8959
+,50,Bronx,Tiffany Playground,0,0,90,641,65,85,0,290,40.8249,-73.8944
+,20,Staten Island,Mahoney Playground,0,0,20,642,18,25,0,83,40.6434,-74.0858
+,9,Bronx,People's Park,0,0,7,643,12,0,0,28,40.8095,-73.9171
+,0,Bronx,Martin Van Buren Playground,0,0,15,644,15,0,0,30,40.8353,-73.8959
+,0,Bronx,Claremont Park,0,0,40,645,48,0,0,88,40.8424,-73.9091
+,0,Bronx,Claremont Park,0,0,40,646,48,0,0,88,40.8379,-73.9081
+,40,Bronx,Tiffany Playground,0,0,25,647,25,0,0,90,40.8249,-73.8944
+,28,Staten Island,Mahoney Playground,0,0,30,648,21,22,25,126,40.6434,-74.0858
+,80,Manhattan,Union Square,0,0,85,649,250,0,200,615,40.736,-73.9908
+,45,Manhattan,Bloomingdale Playground,0,0,95,650,135,0,100,375,40.7993,-73.966
+,28,Staten Island,Mahoney Playground,0,0,30,651,21,0,0,79,40.6434,-74.0858
+,75,Manhattan,Bloomingdale Playground,0,0,0,652,70,135,0,280,40.7993,-73.966
+,117,Manhattan,Union Square,0,0,33,653,200,180,250,780,40.736,-73.9908
